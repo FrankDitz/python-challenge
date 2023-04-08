@@ -1,2 +1,2 @@
 # python-challenge
-PyBank and PyPoll activities involving analysis of total profits by month as well as tallying votes by candidate.
+PyBank and PyPoll activities involving analysis of total profits by month as well as tallying votes by candidate. Help for this assignment came largely from the substitute professor who went over the methodology of this assignment and provided help with code. Additional assistance for printing the code to a new document came from an LA and tutor. W3Shools Tutorials, listed here, (https://www.w3schools.com/python/python_classes.asp) provided a large majority of the help I needed in finishing the code. I also worked on this assignment with a couple students after class hours for help debugging my code. 
